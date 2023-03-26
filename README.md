@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on **[Crastination](https://github.com/NWrenger/Crastination)**, my own Game, and on **[Escaping from the Supernova](https://github.com/NWrenger/Escaping-from-the-Supernova)**, my completly own written textadventure(procedural generation, multiple endings)
 - 🦀 Learning **[Rust](https://www.rust-lang.org/)**
+- 📬  My Contact: **[nils@wrenger.net](mailto:nils@wrenger.net)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
