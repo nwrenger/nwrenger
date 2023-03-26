@@ -2,7 +2,7 @@
 <h3 align="center">a Rust is enthusiast</h3>
 
 - 🔭 I’m currently working on **[Crastination](https://github.com/NWrenger/Crastination)**, my own Game
-- 🦀 Learning Rust
+- 🦀 Learning **[Rust](https://www.rust-lang.org/)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
