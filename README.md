@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nils</h1>
 <h3 align="center">a Rust is enthusiast</h3>
 
-- 🔭 I’m currently working on **[Crastination](https://github.com/NWrenger/Crastination)**, my own Game
+- 🔭 I’m currently working on **[Crastination](https://github.com/NWrenger/Crastination)**, my own Game, and on **[Escaping from the Supernova](https://github.com/NWrenger/Escaping-from-the-Supernova)**, my completly own written textadventure(procedural generation, multiple endings)
 - 🦀 Learning **[Rust](https://www.rust-lang.org/)**
 
 <h3 align="left">Languages and Tools:</h3>
