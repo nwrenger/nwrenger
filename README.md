@@ -6,7 +6,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NWrenger/NWrenger/master/rust-logo-orange.svg" alt="rust" width="40" height="40"/> </a> <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="rust" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NWrenger/NWrenger/master/rust-icon-orange.svg" alt="rust" width="40" height="40"/> </a> <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="rust" width="40" height="40"/> </a> 
 <h3 align="left">Stats:</h3>
 
 ![](https://raw.githubusercontent.com/NWrenger/github-stats/master/generated/overview.svg#gh-dark-mode-only)
