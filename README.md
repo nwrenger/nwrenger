@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nils</h1>
+<h1 align="center">Hi there, I'm Nils</h1>
 <h3 align="center">a high-school Rust enthusiast</h3>
 
 - 🔭 I’m currently working on **[Crastination](https://github.com/NWrenger/Crastination)**, my own Game, and on **[Escaping from the Supernova](https://github.com/NWrenger/Escaping-from-the-Supernova)**, my completly own written textadventure(procedural generation, multiple endings)
