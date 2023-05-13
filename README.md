@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nils</h1>
 <h3 align="center">a high-school Rust enthusiast</h3>
 
-- 🔭 I’m currently working on the **[PDM (Police Database Management)](https://github.com/NWrenger/pdm)**, the backend of the PDA (The so-called Police Department App will be used for a Project Week "School as a state" at my School)
+- 🔭 I’m currently working on the **[SNDM (Schillernova's Database Management)](https://github.com/NWrenger/sndm)**, the backend of the SNDI (The so-called Schillernova's Database Interface will be used for a Project Week "School as a state" at my School)
 - 🦀 Learning **[Rust](https://www.rust-lang.org/)**
 
 <h3 align="left">Languages and Tools:</h3>
