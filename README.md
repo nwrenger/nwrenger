@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nils</h1>
 <h3 align="center">a high-school Rust enthusiast</h3>
 
-- 🔭 I’m currently working on the **[SNDM (Schillernova's Database Management)](https://github.com/nwrenger/sndm)**, the backend of the SNDI (The so-called Schillernova's Database Interface will be used for a Project Week "School as a state" at my School)
+- 🔭 I’m currently working on the **[SNDM (Schillernover's Database Management)](https://github.com/nwrenger/sndm)**, the backend of the SNDI (The so-called Schillernover's Database Interface will be used for a Project Week "School as a state" at my School)
 - 🦀 Learning **[Rust](https://www.rust-lang.org/)**
 
 <h3 align="left">Languages and Tools:</h3>
