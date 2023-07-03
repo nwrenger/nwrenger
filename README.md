@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on the **[SNDM (Schillernover's Database Management)](https://github.com/nwrenger/sndm)**
 - 🦀 Learning **[Rust](https://www.rust-lang.org/)**
-- 💀 Trying to Use **[Neovim](https://neovim.io/)**, here's my **[setup](https://github.com/nwrenger/nvim)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
