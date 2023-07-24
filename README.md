@@ -2,7 +2,7 @@
 <h3 align="center">a high-school Rust enthusiast</h3>
 
 - 🔭 I’m currently working on **a lot of stuff**
-- ❗ My Biggest Project yet is finished, see it **[here](https://github.com/nwrenger/sndm)**
+- ❗ My Biggest Project yet is finished, see it **[here](https://github.com/nwrenger/schiller-db)**
 - 🦀 Learning **[Rust](https://www.rust-lang.org/)**
 - 🦊 Doing Stuff with **[Svelte](https://svelte.dev/)**
 
