@@ -2,7 +2,7 @@
 <h3 align="center">a high-school Rust enthusiast</h3>
 
 - 🔭 I’m currently working on **a lot of stuff**
-- ❓ Want to know more about me and all my projects? Visit my **[portfolio](https://portfolio.nwrenger.dev/)**!
+- ❓ Want to know more about me and all my projects? Visit my **[portfolio](https://nwrenger.dev/)**!
 - 🦀 Learning **[Rust](https://www.rust-lang.org/)**
 - 🦊 Doing Stuff with **[Svelte](https://svelte.dev/)**
 
