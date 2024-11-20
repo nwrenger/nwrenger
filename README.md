@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/nwrenger/nwrenger/master/rust-icon-orange.svg" alt="rust" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/nwrenger/nwrenger/master/uploads/rust-icon-orange.svg" alt="rust" width="40" height="40"/></a>
   <a href="https://svelte.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/></a>
   <a href="https://ziglang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="svelte" width="40" height="40"/></a>
   <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/></a>
