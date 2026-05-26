@@ -22,7 +22,7 @@
 </tr></table>
 <h3 align="left">Stats:</h3>
 
-![](https://raw.githubusercontent.com/nwrenger/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nwrenger/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/nwrenger/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nwrenger/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/nwrenger/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/nwrenger/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/nwrenger/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/nwrenger/github-stats/blob/generated/languages.svg#gh-light-mode-only)
