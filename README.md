@@ -8,7 +8,7 @@
 
 <br />
 
-![](https://github.com/nwrenger/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/nwrenger/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/nwrenger/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/nwrenger/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+![Overview](https://github.com/nwrenger/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![Overview](https://github.com/nwrenger/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![Languages](https://github.com/nwrenger/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![Languages](https://github.com/nwrenger/github-stats/blob/generated/languages.svg#gh-light-mode-only)
