@@ -3,8 +3,9 @@
 
 - 🔭 I’m currently working on **a lot of stuff**
 - ❓ Want to know more about me and all my projects? Visit my **[portfolio](https://nwrenger.dev/)**!
-- 🦀 Learning **[Rust](https://www.rust-lang.org/)**
-- 🦊 Doing Stuff with **[Svelte](https://svelte.dev/)**
+- 🦀 Learning and abusing **[Rust](https://www.rust-lang.org/)**
+- 🦊 Creating UIs with **[Svelte](https://svelte.dev/)**
+- 🎮 Tinkering up mods for **[Minecraft](https://minecraft.wiki/)**
 
 <br />
 
